@@ -20,7 +20,7 @@ Passionate about leveraging data to solve real-world problems. Skilled in Python
 - **🛠️ Technologies**: Python, pandas, scikit-learn, K-Means, PCA, Logistic Regression, Random Forest, Voting Ensemble, Bagging, seaborn/matplotlib, Jupyter notebooks (Deepnote).
 - **📊 Results**: Identified four actionable customer segments (“Stars,” “High Potential,” “Need Attention,” “Leaky Bucket”) with clear profiles to inform targeted marketing.
 
-### [Personalized Search Engine](https://github.com/tuonome/progetto2) | Information retrieval and Recommender systems course
+### [Personalized Search Engine](https://github.com/Andrea-0319/Personalized_Search_Engine) | Information retrieval and Recommender systems course
 
 - **🧠 Overview**: This work implements a personalized information retrieval system over a community Question-Answering collection (SE-PQA), aiming to return contextually relevant answers to users’ queries by blending lexical, semantic and user-specific signals. 
 - **🛠️ Technologies**: Python, Pyterrier, BM25, HuggingFace Transformers (MiniLM, DistilBERT-QA, T5-small), Fusion strategies (RRF and Weighted linear sum), custom Python modules for text preprocessing, data I/O, parameter grid search and evaluation with rangx, Jupyter notebooks (Deepnote).
