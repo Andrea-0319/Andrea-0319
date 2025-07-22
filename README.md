@@ -32,7 +32,7 @@ Passionate about leveraging data to solve real-world problems. Skilled in Python
 - **🛠️ Technologies**: Python, Pandas, scikit-learn, Logistic Regression, Random Forest, XGBoost, SHAP, matplotlib, seaborn, Jupyter notebook (Vs Code).
 - **📊 Results**: Provided actionable business insights and practical recommendations to improve customer retention and maximize Customer Lifetime Value.
  
-### [Multi-Output Deep Neural Network](https://github.com/tuonome/progetto2) | Deep Learning and Artificial Neural Networks course
+### [Multi-Output Deep Neural Network](https://github.com/Andrea-0319/Multi-Output_Deep_Neural_Network) | Deep Learning and Artificial Neural Networks course
 
 - **🧠 Overview**: Developed a deep learning solution to simultaneously predict both the sentiment (good/bad) and the numerical score of hotel reviews, using a combination of structured features and free-text data.
 - **🛠️ Technologies**: Python, Pandas, NumPy, TensorFlow/Keras (LSTM, MLP, multi-output models), Scikit-learn, Jupyter notebook (Google Colab).
