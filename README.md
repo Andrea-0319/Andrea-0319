@@ -26,7 +26,7 @@ Passionate about leveraging data to solve real-world problems. Skilled in Python
 - **🛠️ Technologies**: Python, Pyterrier, BM25, HuggingFace Transformers (MiniLM, DistilBERT-QA, T5-small), Fusion strategies (RRF and Weighted linear sum), custom Python modules for text preprocessing, data I/O, parameter grid search and evaluation with rangx, Jupyter notebooks (Deepnote).
 - **📊 Results**: This project demonstrates that while traditional retrieval methods such as BM25 provide a strong baseline, there is potential for improvement by integrating additional signals.
   
-### [Churn Prediction](https://github.com/tuonome/progetto2) | AI for Communication and Marketing course
+### [Churn Prediction](https://github.com/Andrea-0319/Churn_prediction) | AI for Communication and Marketing course
 
 - **🧠 Overview**: Developed a predictive model to identify at-risk customers for an e-commerce platform, supporting targeted retention strategies.
 - **🛠️ Technologies**: Python, Pandas, scikit-learn, Logistic Regression, Random Forest, XGBoost, SHAP, matplotlib, seaborn, Jupyter notebook (Vs Code).
