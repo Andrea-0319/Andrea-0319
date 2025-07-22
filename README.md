@@ -8,7 +8,7 @@ Passionate about leveraging data to solve real-world problems. Skilled in Python
 
 📚 Here are some of my academic projects:
 
-### [WatorPlus](https://github.com/tuonome/progetto1) | Computer Programming course
+### [WatorPlus](https://github.com/Andrea-0319/WatorPlus) | Computer Programming course
 
 - **🧠 Overview**: An extended Wa‑Tor predator–prey simulation featuring sharks, fish, drifting jellyfish (toxic hazards) and regrowing kelp on a continuous toroidal grid. 
 - **🛠️ Technologies**: Python, NumPy for numerical modeling, Matplotlib for real‑time visualization, CustomTkinter/Tkinter for a lightweight GUI, VS Code.
