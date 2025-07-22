@@ -4,7 +4,7 @@
 
 Passionate about leveraging data to solve real-world problems. Skilled in Python, Machine Learning and Deep Learning. Eager to contribute to innovative AI projects, with a strong interest in process automation and predictive analytics. Motivated to grow professionally in a dynamic and forward-thinking environment.
 
-# Projects
+# Projects 💻
 
 📚 Here are some of my academic projects:
 
