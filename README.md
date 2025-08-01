@@ -42,7 +42,7 @@ Passionate about leveraging data to solve real-world problems. Skilled in Python
 
 - ✉️ Email: andreasc1903@gmail.com
 
-- 🔗 LinkedIn: linkedin.com/in/andrea-scalora-
+- 🔗 LinkedIn: [linkedin.com/in/andrea-scalora-](https://www.linkedin.com/in/andrea-scalora-/)
 
 
 <!--
